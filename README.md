@@ -1,8 +1,5 @@
 📊 Application of KNN Model and Linear Regression in Iris Data Analysis
 
-![Uploading image.png…]()
-
-
 📌 1. Project Description
 
 This project focuses on applying K-Nearest Neighbors (KNN) classification and Linear Regression to the well-known Iris dataset. The goal is to explore how these machine learning techniques can be used to classify flower species and analyze relationships between features.
